@@ -1,6 +1,6 @@
-#Mike's GitHub
+#Home Page 
 
-##Home Page 
-Visit [Repositories](https://github.com/ace540i).
+##Visit 
+[Repositories](https://github.com/ace540i).
 
 
